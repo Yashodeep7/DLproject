@@ -116,11 +116,14 @@ pip install -r requirements.txt
 
 ## 👥 Team
 
-This project was developed and maintained by:
+This project was developed by:
 
 - **Bhupesh Yadav**
 - **Piyush Kumar**
 - **Asif Hoda**
+- **Maanjeet Rai**
+- **Yashodeep**
+- **Tarun Singh**
 
 
 ---
